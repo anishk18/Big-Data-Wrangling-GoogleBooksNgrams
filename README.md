@@ -40,7 +40,7 @@ The Google Books Ngrams dataset represents about 4% of all published books, span
 Big-Data-Wrangling-GoogleBooksNgrams/
 │
 ├── [README.md](README.md)
-├── [.gitignore](gitignore)
+├── [.gitignore](.gitignore)
 ├── [requirements.txt](requirements.txt)
 │
 └── notebooks/

@@ -39,13 +39,13 @@ The Google Books Ngrams dataset represents about 4% of all published books, span
 ```
 Big-Data-Wrangling-GoogleBooksNgrams/
 │
-├── [README.md](README.md)
-├── [.gitignore](.gitignore)
-├── [requirements.txt](requirements.txt)
+├── README.md
+├── .gitignore
+├── requirements.txt
 │
 └── notebooks/
-    ├── [Big Data Wrangling With Google Books Ngrams_Q4.ipynb](<notebooks/Big Data Wrangling With Google Books Ngrams_Q4.ipynb>)
-    └── [Big Data Wrangling With Google Books Ngrams_Q6_Q7.ipynb](<notebooks/Big Data Wrangling With Google Books Ngrams_Q6_Q7.ipynb>)
+    ├── Big Data Wrangling With Google Books Ngrams_Q4.ipynb
+    └── Big Data Wrangling With Google Books Ngrams_Q6_Q7.ipynb
 ```
 
 

@@ -46,10 +46,9 @@ Big-Data-Wrangling-GoogleBooksNgrams/
 │   └── Big Data Wrangling With Google Books Ngrams_Q6_Q7.ipynb
 │
 ├── data/
-│   └── Bigdata_token_local.csv
-│
-├── report/
-│   └── Big_Data_Wrangling_Report.pdf   # (add once ready)
+│   ├── Bigdata_token_local.csv
+│   └── reports/
+│       └── Big Data Wrangling With Google Books Ngrams_Report_AnishKarnik.pdf
 │
 └── requirements.txt
 

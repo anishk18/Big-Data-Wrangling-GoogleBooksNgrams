@@ -1,0 +1,29 @@
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+Python cache
+
+pycache/
+*.pyc
+
+Environment files
+
+.env
+.venv/
+*.log
+
+Data files
+
+*.csv
+*.tsv
+*.gz
+
+AWS keys or credentials
+
+.aws/
+
+OS files
+
+.DS_Store
+Thumbs.db
